@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.swp
+
+local
+cache
+.cache
+.cache.sqlite
+tmp
