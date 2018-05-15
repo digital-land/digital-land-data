@@ -3,25 +3,24 @@ import luigi
 import requests
 import frontmatter
 import geojson
+import csv
 
 
 class Geography(luigi.WrapperTask):
     def requires(self):
-        for root, dirs, filenames in os.walk('data/publication/'):
-            for filename in filenames:
-                if filename.endswith('.md'):
-                    path = os.path.join(root, filename)
+        for row in csv.DictReader(open('data/publication/index.tsv'), delimiter='\t'):
+            path = os.path.join('data/publication', row['path'])
+            if path.endswith('.md'):
+                item = frontmatter.load(path)
+                if 'geography' in item.keys():
+                    publication = item['publication']
+                    geography = item['geography']
+                    task = item['task']
+                    url = item['data-url']
+                    key = item['key']
 
-                    item = frontmatter.load(path)
-                    if 'geography' in item.keys():
-                        publication = item['publication']
-                        geography = item['geography']
-                        task = item['task']
-                        url = item['data-url']
-                        key = item['key']
-
-                        if (task in ['geojson']):
-                            yield GeoJSON(publication, geography, url, key)
+                    if (task in ['geojson']):
+                        yield GeoJSON(publication, geography, url, key)
 
 
 class GeoJSON(luigi.Task):
