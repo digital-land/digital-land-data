@@ -8,9 +8,9 @@ import shutil
 requests_cache.install_cache('.cache')
 
 
-def fetch(url):
+def fetch(url, fp):
     response = requests.get(url, stream=True, allow_redirects=True)
-    shutil.copyfileobj(response.raw, sys.stdout.buffer)
+    shutil.copyfileobj(response.raw, fp)
     del response
 
 
