@@ -29,29 +29,13 @@ class GeoJSON(luigi.Task):
     url = luigi.Parameter()
     key = luigi.Parameter()
 
-    def requires(self):
-        return LocalJSON(self.publication, self.url)
-
     def run(self):
-        print("+ input", self.input())
-        g = geojson.load(self.input().open("r"))
-        g = geojson.c14n(g, self.geography, self.key)
+        print("+ fetching", self.url)
+        r = requests.get(self.url, allow_redirects=True)
+        g = geojson.c14n(r.json(), self.geography, self.key)
 
         with self.output().open("w") as output:
             geojson.dump(g, output)
 
     def output(self):
         return luigi.LocalTarget("data/area/{0}.geojson".format(self.publication))
-
-
-class LocalJSON(luigi.Task):
-    publication = luigi.Parameter()
-    url = luigi.Parameter()
-
-    def run(self):
-        r = requests.get(self.url, allow_redirects=True)
-        with self.output().open("wb") as output:
-            output.write(r.text)
-
-    def output(self):
-        return luigi.LocalTarget(".cache/{0}.json".format(self.publication))
