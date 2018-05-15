@@ -10,7 +10,9 @@ We recommend working in [virtual environment](http://docs.python-guide.org/en/la
 
     $ make init
 
-The process of refreshing the data is being automated as a pipeline of [luigi](https://github.com/spotify/luigi) tasks.
+The process of refreshing the data is being automated as a pipeline of [luigi](https://github.com/spotify/luigi) tasks:
+
+    $ make
 
 # Licence
 
