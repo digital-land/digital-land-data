@@ -9,7 +9,7 @@ data-gov-uk: 949c1d56-e509-4690-b782-9431d5464221
 data-url: http://www.bgs.ac.uk/downloads/start.cfm?id=1659
 task: bgs
 projection: bng
-geography: bgs-radon-atlas
+prefix: bgs-radon-atlas
 key: Tile
 ---
 

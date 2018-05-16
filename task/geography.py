@@ -12,27 +12,26 @@ class Geography(luigi.WrapperTask):
             path = os.path.join('data/publication', row['path'])
             if path.endswith('.md'):
                 item = frontmatter.load(path)
-                if 'geography' in item.keys():
+                task = item['task']
+                if (task in ['geojson']):
                     publication = item['publication']
-                    geography = item['geography']
-                    task = item['task']
+                    prefix = item['prefix']
                     url = item['data-url']
                     key = item['key']
 
-                    if (task in ['geojson']):
-                        yield GeoJSON(publication, geography, url, key)
+                    yield GeoJSON(publication, prefix, url, key)
 
 
 class GeoJSON(luigi.Task):
     publication = luigi.Parameter()
-    geography = luigi.Parameter()
+    prefix = luigi.Parameter()
     url = luigi.Parameter()
     key = luigi.Parameter()
 
     def run(self):
         print("+ fetching", self.url)
         r = requests.get(self.url, allow_redirects=True)
-        g = geojson.c14n(r.json(), self.geography, self.key)
+        g = geojson.c14n(r.json(), self.prefix, self.key)
 
         with self.output().open("w") as output:
             geojson.dump(g, output)

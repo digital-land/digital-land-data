@@ -8,7 +8,7 @@ data-gov-uk: c52ead19-47c2-473b-b087-0842157e00b6
 documentation-url: https://naturalengland-defra.opendata.arcgis.com/datasets/sites-of-special-scientific-interest-units-england
 data-url: https://opendata.arcgis.com/datasets/2778e6d7622b43d4bd47fe282f062b0a_0.geojson
 task: geojson
-geography: site-of-special-scientific-interest-unit
+prefix: site-of-special-scientific-interest-unit
 key: ENSIS_ID
 ---
 

@@ -9,7 +9,7 @@ task: gmlzip
 documentation-url: https://uk-air.defra.gov.uk/aqma/maps
 data-url: https://uk-air.defra.gov.uk/assets/documents/uk_aqma_Jan2018_FINAL.zip
 projection: bng
-geography: air-quality-measurement-area
+prefix: air-quality-measurement-area
 key: AQMA_Ref
 ---
 

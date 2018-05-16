@@ -1,0 +1,15 @@
+prefix	organisation
+air-quality-measurement-area	government-organisation:D7$
+bgs-radon-atlas	government-organisation:EA480
+civil-parish-boundary	government-organisation:D303
+land-registry-index	government-organisation:D69
+statistical-geography	government-organisation:D303
+site-of-special-scientific-interest	government-organisation:PB202
+site-of-special-scientific-interest-unit	government-organisation:PB202
+lambeth-archaeological-priority-area	local-authority-eng:LBH
+lambeth-conservation-area	local-authority-eng:LBH
+lambeth-contaminated-land	local-authority-eng:LBH
+lambeth-local-view	local-authority-eng:LBH
+lambeth-site-of-borough-nature-conservation-importance	local-authority-eng:LBH
+lambeth-strategic-cultural-area	local-authority-eng:LBH
+lambeth-tunnel-safeguarding-line	local-authority-eng:LBH
