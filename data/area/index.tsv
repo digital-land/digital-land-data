@@ -1,6 +1,4 @@
 path
-local-authority-district.geojson
-national-park-boundary.geojson
 lambeth-archaeological-priority-areas.geojson
 lambeth-conservation-areas.geojson
 lambeth-contaminated-land.geojson
@@ -8,3 +6,5 @@ lambeth-local-views.geojson
 lambeth-sites-of-borough-nature-conservation-importance.geojson
 lambeth-strategic-cultural-areas.geojson
 lambeth-tunnel-safeguarding-lines.geojson
+local-authority-district.geojson
+national-park-boundary.geojson
