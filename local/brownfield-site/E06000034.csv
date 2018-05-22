@@ -1,0 +1,609 @@
+OrganisationURI,OrganisationLabel,SiteReference,PreviouslyPartOf,SiteNameAddress,SiteplanURL,CoordinateReferenceSystem,GeoX,GeoY,Hectares,OwnershipStatus,Deliverable,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,ProposedForPIP,MinNetDwellings,DevelopmentDescription,NonHousingDevelopment,Part2,NetDwellingsRangeFrom,NetDwellingsRangeTo,HazardousSubstances,SiteInformation,Notes,FirstAddedDate,LastUpdatedDate
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,AVE_13,AVE_13,"28 Purfleet Road, Aveley. RM15 4DL.","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.24985,51.49938,0.1753,Not owned by a  Public Authority,,Permissioned,Full Planning Permission,05/07/2013,,,6,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,AVE_14,AVE_14,"Springfield, Mill Road, Aveley","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.25021,51.50191,0.4612,Not owned by a  Public Authority,Yes,Not Permissioned,,,,,7,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,AVE_15,AVE_15,"Hall Road (ex garages), Aveley","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.2507,51.49545,0.159,Owned by a  Public Authority,,Not Permissioned,,,,,6,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,AVE_16,AVE_16,"Aveley Service Station, Mill Road, Aveley","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.25144,51.49953,0.1571,Not owned by a  Public Authority,,Not Permissioned,,,,,5,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,AVE_17,AVE_17,"Land R/O 77 - 87 Shannon Way, Aveley  Task 2","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.25236,51.50667,0.1236,Owned by a  Public Authority,,Not Permissioned,,,,,4,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,AVE_18,AVE_18,"Sunnyside, High Street, Aveley","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.25253,51.49903,0.1249,Not owned by a  Public Authority,,Not Permissioned,,,,,4,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,AVE_19,AVE_19,"Aveley Football Ground, Mill Road, Aveley","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.25282,51.50342,2.4975,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,11/03/2016,,,114,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,AVE_27,AVE_27,"Off 1a & 1b Park Lane, Aveley","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.2598,51.49962,0.17,Not owned by a  Public Authority,,Not Permissioned,,,,,6,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,AVE_45,AVE_45,"Adjacent 1 Park Lane, Aveley
+","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.2598,51.49962,0.1708,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,19/08/2016,,,9,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,AVE_46,AVE_46,"79 High Street, Aveley, RM15 4AX","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.25209,51.49944,0.1417,Not owned by a  Public Authority,Yes,Not Permissioned,,,,,8,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,BEL_01,BEL_01,"Land adj B1335 Stifford Road, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.27526,51.50309,0.5594,Owned by a  Public Authority,,Not Permissioned,,,,,20,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,BEL_02,BEL_02,"Marley Works (building footprint and surrounding land), Stifford Road, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.27702,51.50185,3.8207,Not owned by a  Public Authority,,Not Permissioned,,,,,134,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,BEL_03,BEL_03,"Marley Works, Stifford Road, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.27744,51.5024,2.287,Not owned by a  Public Authority,,Not Permissioned,,,,,80,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,BEL_04,BEL_04,"Knightsmead School, Fortin Close, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.27787,51.50435,0.5385,Owned by a  Public Authority,,Not Permissioned,,,,,19,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,BEL_06,BEL_06,"Whiteacre, Daiglen Drive, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.28279,51.50748,0.3543,Owned by a  Public Authority,,Not Permissioned,,,,,12,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,BEL_07,BEL_07,"Dilkeswood Centre, Darenth Lane, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.28287,51.50788,0.2888,Owned by a  Public Authority,,Not Permissioned,,,,,20,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,BEL_09,BEL_09,"The Culver Centre, Daiglen Drive, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.2846,51.50718,2.0056,Owned by a  Public Authority,Yes,Not Permissioned,,,,,220,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,BEL_10,BEL_10,"Broxburn Drive North, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.29034,51.50886,0.0962,Owned by a  Public Authority,,Not Permissioned,,,,,3,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,BEL_11,BEL_11,"146 South Road, South Ockendon, RM15 6BX","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.29217,51.515,0.1492,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,02/10/2015,,,7,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,BEL_14,BEL_14,"Bentons Farm, Mollands Lane, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.29624,51.51641,0.3567,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,11/04/2016,,,10,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,BEL_15,BEL_15,"Ford Place, South Road, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.29592,51.50289,2.3887,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,14/03/2016,,,9,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,BEL_16,,"Adj Bentons Farm, Mollands Lane, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.29694,51.51637,0.3094,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,25/10/2016,,,16,,,,,,,,,30/12/2017,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,CNS_05,CNS_05,"Former Ardale Site Extension, Harrington Crescent, North Stifford, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.30094,51.49714,0.7951,Not owned by a  Public Authority,,Permissioned,Outline Planning Permission,11/03/2014,,,28,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,COF_02,COF_02,"Gable School, Southend Road, Corringham","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.45,51.53258,5.2397,Not owned by a  Public Authority,,Not Permissioned,,,,,183,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,COF_11,COF_11,"Petrol Station, Lampits Hill, Corringham","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.45974,51.52643,0.0937,Not owned by a  Public Authority,Yes,Not Permissioned,,,,,3,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,COF_13,COF_13,"Land and Buildings at 19 To 29 
+Lampits Hill,
+Corringham","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.45992,51.52614,0.1976,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,17/09/2015,,,8,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,COF_20,COF_20,"Academy Builders And Development Ltd, 31 Fobbing Road, Corringham","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.46367,51.52607,0.106,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,23/11/2015,,,6,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,COF_21,COF_21,"Gower Lodge, Herd Lane, Corringham","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.46458,51.52561,0.0831,Not owned by a  Public Authority,,Not Permissioned,,,,,3,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,COF_26,COF_26,"Thames View Farm, High Road, Fobbing","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.46788,51.54013,0.913,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,20/11/2015,,,9,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,CSM_02,CSM_02,Land Adjacent To Thatched Cottage Baker Street Orsett Essex,"https://thurrock.gov.uk/brownfield-map
+",WGS84,0.35708,51.49896,0.5482,Not owned by a  Public Authority,Yes,Permissioned,Outline Planning Permission,31/03/2015,,,14,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,CSM_05,CSM_05,"Riverview Methodist Church, River View, Chadwell St Mary, RM16 4BJ","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.36472,51.48119,0.1016,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,06/01/2016,,,7,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,CSM_08,CSM_08,"Petrol Station, Brentwood Road, Chadwell St Mary","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.36855,51.48263,0.2199,Owned by a  Public Authority,,Not Permissioned,,,,,8,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,CSM_10,CSM_10,"Land at St Joseph's Church Hall, Defoe Parade, Chadwell St Mary","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.3713,51.48859,0.2956,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,13/01/2016,,,35,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,CSM_12,CSM_12,"St Mary's Community Hall, Longhouse Road, Chadwell St Mary","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.37213,51.48728,0.2102,Owned by a  Public Authority,,Not Permissioned,,,,,7,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,CSM_13,CSM_13,"Land rear of St Johns Way, Chadwell St Mary","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.37302,51.47979,0.5604,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,19/02/2013,,,20,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,CSM_14,CSM_14,"R/O 33-55 Vigerons Way, Chadwell St Mary","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.37373,51.48376,0.1626,Owned by a  Public Authority,,Not Permissioned,,,,,6,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,CSM_15,CSM_15,"Alexandra Close/Sleepers Farm Road (ex garages) Site 3, Chadwell St. Mary","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.37483,51.49177,0.0759,Owned by a  Public Authority,,Not Permissioned,,,,,3,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,CSM_16,CSM_16,"Ravencroft/ Alexandra Close (ex garage site) Site 1, Chadwell St. Mary","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.37565,51.49226,0.1005,Owned by a  Public Authority,,Not Permissioned,,,,,4,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,CSM_17,CSM_17,"Sabina Road (ex garages), Chadwell St. Mary","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.37633,51.48339,0.1995,Owned by a  Public Authority,,Not Permissioned,,,,,7,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,CSM_18,CSM_18,"Saints Walk (ex garages), Chadwell St. Mary","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.37683,51.48447,0.1863,Owned by a  Public Authority,,Not Permissioned,,,,,7,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,CSM_25,CSM_25,"Church Hall, Rigby Gardens, Chadwell St Mary","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.36809,51.48412,0.1229,Not owned by a  Public Authority,Yes,Not Permissioned,,,,,6,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,EAT_01,EAT_01,"Star Industrial Estate, Linford Road, Chadwell St Mary","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.3735,51.47854,3.3431,Not owned by a  Public Authority,Yes,Not Permissioned,,,,,117,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,EAT_02,EAT_02,"St Johns Road / West of Sandy Lane, East Tilbury (building footprint)","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.37453,51.47914,2.5163,Not owned by a  Public Authority,Developable,Not Permissioned,,,,,88,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,EAT_04,EAT_04,"Sandy Lane, Chadwell St Mary. RM16 4LL","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.37809,51.48,1.3212,Not owned by a  Public Authority,,Not Permissioned,,,,,46,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,EAT_06,EAT_06,"Sandy Lane, Chadwell St Mary","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.37901,51.48075,1.1434,Not owned by a  Public Authority,,Not Permissioned,,,,,40,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,EAT_13,EAT_13,"Waterworks Site, Lower Crescent, Linford","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.40653,51.48781,0.476,Not owned by a  Public Authority,,Not Permissioned,,,,,17,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,EAT_18,EAT_18,"Land To Rear Of 4 - 20, Bata Avenue, East Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.41509,51.48056,0.3282,Not owned by a  Public Authority,Yes,Permissioned,Outline Planning Permission,16/12/2016,,,14,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,EAT_19,,"Former Tennis Court Site, East Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.41717,51.4815,0.9805,Not owned by a  Public Authority,Yes,Not Permissioned,,,,,18,,,,,,,,,30/12/2017,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,EAT_20,EAT_20,"Coronation Avenue, East Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.41823,51.48116,0.1936,Owned by a  Public Authority,,Not Permissioned,,,,,7,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,EAT_22,EAT_22,"Coronation Avenue/Lambourne (ex garages), East Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.42307,51.4822,0.2104,Owned by a  Public Authority,,Not Permissioned,,,,,7,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,EAT_25,EAT_25,"Thames Industrial Estate, Princess Margaret Road, East Tilbury. RM18 8RH","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.41511,51.47818,14.4182,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,02/04/2015,,,50,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_01,GRI_01,"Kaneb Terminal Former GATX (STS) Terminal, Askew Farm Lane, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.30646,51.48406,9.7178,Not owned by a  Public Authority,,Not Permissioned,,,,,340,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_02,GRI_02,"Vehicle Depot, Wouldham Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.30661,51.4761,0.5875,Not owned by a  Public Authority,,Not Permissioned,,,,,21,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_03,GRI_03,"Askew Farm Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.30687,51.48105,5.7105,Not owned by a  Public Authority,,Not Permissioned,,,,,200,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_05,GRI_05,"Former Murco Oil Depot, Askew Farm Lane, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.30908,51.48291,6.5371,Not owned by a  Public Authority,,Not Permissioned,,,,,229,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_08,GRI_08,"Gas Works Site, London Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.31463,51.47758,2.525,Not owned by a  Public Authority,,Permissioned,Full Planning Permission,06/01/2017,,,88,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_09,GRI_09,"Cavectra Centre, 111 - 113 London Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.31478,51.4766,0.2035,Not owned by a  Public Authority,,Not Permissioned,,,,,7,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_10,GRI_10,"Aldi Store, London Road, West Thurrock","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.31644,51.47677,0.7952,Not owned by a  Public Authority,,Not Permissioned,,,,,28,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_11,GRI_11,"Mot Centre, London Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.31775,51.47783,0.2377,Not owned by a  Public Authority,,Not Permissioned,,,,,8,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_12,GRI_12,"Travis Perkins site, Seally Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.31813,51.47862,0.3636,Not owned by a  Public Authority,,Not Permissioned,,,,,13,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_13,GRI_13,"Land west of Grays Station carpark, Station Approach, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.31823,51.47617,0.3303,Not owned by a  Public Authority,,Not Permissioned,,,,,12,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_16,GRI_16,"Petrol Station and Land West of  Hogg Lane, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.31906,51.48053,0.4308,Not owned by a  Public Authority,,Not Permissioned,,,,,15,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_17,GRI_17,"Morrisons Car Park Site, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.31943,51.47837,0.4294,Not owned by a  Public Authority,,Not Permissioned,,,,,15,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_18,GRI_18,"RT Rates Garage, Hogg Lane, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32003,51.48069,0.7683,Not owned by a  Public Authority,,Not Permissioned,,,,,27,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_19,GRI_19,"Hogg Lane Roundabout, North Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32016,51.47957,0.1528,Not owned by a  Public Authority,,Not Permissioned,,,,,5,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_20,GRI_20,"Grays Sorting Office, Hogg Lane, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32072,51.48005,0.8527,Not owned by a  Public Authority,,Not Permissioned,,,,,30,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_21,GRI_21,"State Cinema, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32192,51.47759,0.1639,Not owned by a  Public Authority,,Not Permissioned,,,,,6,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_22,GRI_22,"Land East of West Street, South Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32203,51.47419,0.4338,Owned by a  Public Authority,,Not Permissioned,,,,,15,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_23,GRI_23,"'Changes' Health & Fitness Club, 76 High Street, Grays, RM17 6HU","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32224,51.47525,0.1134,Not owned by a  Public Authority,,Permissioned,Full Planning Permission,29/08/2013,,,4,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_24,GRI_24,"Shoppers Luck, 66 High Street, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32229,51.47618,0.075,Not owned by a  Public Authority,,Not Permissioned,,,,,3,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_25,,"Car Park, Brooke Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.3229,51.47942,0.0639,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,22/04/2016,,,9,,,,,,,,,30/12/2017,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_27,GRI_27,"Retail Units, High Street, Clarence Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32341,51.47799,0.0946,Not owned by a  Public Authority,,Not Permissioned,,,,,3,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_28,GRI_28,"59-65 High Street, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32341,51.47597,0.2657,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,31/03/2012,,,35,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_29,GRI_29,"Grays Medical Centre, Brooke Road. Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32365,51.47943,0.2702,Not owned by a  Public Authority,,Not Permissioned,,,,,9,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_31,GRI_31,"Pier Lodge Day Nursery, Argent Street, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32397,51.4732,0.1664,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,15/09/2015,,,21,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_32,GRI_32,"Thurrock Yacht Club, Thames Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32461,51.47159,0.2745,Not owned by a  Public Authority,,Not Permissioned,,,,,10,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_33,GRI_33,"20-24 Clarence Road, Grays, RM17 6QJ","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32573,51.47758,0.0574,Not owned by a  Public Authority,,Not Permissioned,,,,,2,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_35,GRI_35,"Argent Street / Thames Road, Grays (Council owned portion)","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32654,51.47263,0.5196,Owned by a  Public Authority,,Not Permissioned,,,,,18,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_36,GRI_36,"Honda Garage, Orsett Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32706,51.47942,0.2335,Not owned by a  Public Authority,,Not Permissioned,,,,,8,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_37,GRI_37,"Land at Prospect Place, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32897,51.47534,0.078,Not owned by a  Public Authority,,Not Permissioned,,,,,3,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_38,GRI_38,"The Tops Social Club, Argent Street, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32911,51.47348,0.1044,Not owned by a  Public Authority,Yes,Permissioned,Outline Planning Permission,20/01/2017,,,24,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_40,GRI_40,"Pumping Station site Manor Way, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.33133,51.47146,0.6093,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,03/06/2016,,,27,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_41,GRI_41,"Grays Station, Station Approach, Grays (commercial)","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.3209,51.47618,0.6941,Not owned by a  Public Authority,,Not Permissioned,,,,,24,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_42,GRI_42,West of Grays High Street (culture/leisure /retail/residential),"https://thurrock.gov.uk/brownfield-map
+",WGS84,0.3223,51.47701,0.4891,Not owned by a  Public Authority,,Not Permissioned,,,,,17,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_45,GRI_45,"Queensgate Centre, Grays (retail/commercial/residential)","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32396,51.4783,0.2249,Not owned by a  Public Authority,,Not Permissioned,,,,,8,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GRI_49,GRI_49,Crown House,"https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32441,51.47655,0.4834,Not owned by a  Public Authority,,Not Permissioned,,,,,17,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GTH_01,GTH_01,"2 Orchard Drive, Grays, RM17 5AF","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.31968,51.49374,0.1868,Not owned by a  Public Authority,,Not Permissioned,,,,,7,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GTH_03,GTH_03,"131a-c Hathaway Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32416,51.48628,0.268,Not owned by a  Public Authority,,Not Permissioned,,,,,9,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GTH_04,GTH_04,"Norman Hall, Cromwell Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32427,51.47997,0.0537,Not owned by a  Public Authority,,Not Permissioned,,,,,2,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GTH_06,GTH_06,"Treetops School, Dell Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32656,51.48419,3.0898,Owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,28/09/2016,,,74,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GTH_07,GTH_07,"Land at Junction Dell Road Southend Road, Grays (PDL portion)","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32846,51.48099,0.1692,Not owned by a  Public Authority,,Not Permissioned,,,,,6,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GTH_09,GTH_09,"Car Park, Bridge Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.33072,51.47593,0.0836,Owned by a  Public Authority,,Not Permissioned,,,,,3,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GTH_10,GTH_10,"The Bricklayers Arms, Bridge Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.33073,51.47571,0.0659,Not owned by a  Public Authority,,Not Permissioned,,,,,2,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GTH_11,GTH_11,"Telephone Exchange, Bradleigh Avenue, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.33104,51.48138,0.468,Not owned by a  Public Authority,,Not Permissioned,,,,,16,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GTH_12,GTH_12,"Scout Hut & Function Hall, Grays Park, Bridge Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.33133,51.47881,0.3654,Owned by a  Public Authority,Developable,Not Permissioned,,,,,13,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GTH_13,GTH_13,"Adult Education Centre, Richmond Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.33131,51.47821,0.5631,Owned by a  Public Authority,,Not Permissioned,,,,,20,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GTH_14,GTH_14,"Car Park, William Street, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.33191,51.47536,0.1034,Not owned by a  Public Authority,,Not Permissioned,,,,,4,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GTH_17,GTH_17,"Grove Road, east of no. 54, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.33393,51.47467,0.113,Owned by a  Public Authority,,Not Permissioned,,,,,4,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GTH_20,GTH_20,"Scrapyard, Manor Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.33768,51.4748,0.2354,Not owned by a  Public Authority,,Not Permissioned,,,,,8,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,GTH_21,GTH_21,"Land At 52, Broadway, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.33807,51.47541,0.3893,Not owned by a  Public Authority,Yes,Not Permissioned,,,,,14,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,HOM_01,HOM_01,R/O 66 Branksome Avenue Stanford Le Hope.,"https://thurrock.gov.uk/brownfield-map
+",WGS84,0.43341,51.52721,0.2168,Not owned by a  Public Authority,,Not Permissioned,,,,,,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,HOM_05,HOM_05,Land East Of Morley Hill,"https://thurrock.gov.uk/brownfield-map
+",WGS84,0.44359,51.53493,0.2718,Not owned by a  Public Authority,,Not Permissioned,,,,,10,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,LTB_03,LTB_03,"Deneholm Primary School, Culford Road, Little Thurrock, Grays.  RM16 2SS","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.33854,51.49476,1.2558,Owned by a  Public Authority,Developable,Not Permissioned,,,,,44,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,LTB_04,LTB_04,"Petrol Station, Daneholes Roundabout' Stanford Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.34439,51.48895,0.6344,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,30/04/2014,,,9,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,LTB_05,LTB_05,"Land at Thurrock Technical College, Wood View, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.35357,51.48631,9.3939,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,28/03/2012,,,62,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,LTR_02,LTR_02,"Retail Units (Remainder), Corner Broadway and Whitehall Lane, Little Thurrock, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.33617,51.47635,0.1579,Not owned by a  Public Authority,,Not Permissioned,,,,,6,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,LTR_03,LTR_03,"Blockhouse Road sites, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.33637,51.47701,0.3701,Not owned by a  Public Authority,,Not Permissioned,,,,,13,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,LTR_04,LTR_04,"Land North of Cement Block Cottages, Towers Road, Little Thurrock, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.33684,51.47744,0.1243,Not owned by a  Public Authority,,Not Permissioned,,,,,4,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,LTR_05,LTR_05,"Site East of Scrapworks, Towers Road, Little Thurrock, Grays, RM17 6ST","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.33689,51.47703,0.1779,Not owned by a  Public Authority,,Not Permissioned,,,,,6,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,LTR_06,LTR_06,"Globe Works, Towers Road, Little Thurrock, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.33738,51.47893,7.9751,Not owned by a  Public Authority,,Not Permissioned,,,,,279,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,LTR_07,LTR_07,"Combine Pallet Site, Globe Works, Towers Road, Grays, RM17 6ST
+","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.33785,51.48203,1.5202,Not owned by a  Public Authority,,Not Permissioned,,,,,53,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,LTR_09,LTR_09,"Site 1, Globe Works Industrial Estate, Towers Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.33963,51.47819,0.1842,Not owned by a  Public Authority,,Not Permissioned,,,,,6,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,LTR_10,LTR_10,"Garden Centre, Chadwell Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.34408,51.48422,0.8434,Not owned by a  Public Authority,,Not Permissioned,,,,,30,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,OCK_01,OCK_01,"Beacon Hill School (formerly Woodacre), Erriff Drive, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.27743,51.51165,1.7922,Owned by a  Public Authority,,Not Permissioned,,,,,63,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,OCK_02,OCK_02,"Kemps Farm, Dennises Lane, South Ockendon, RM15 5SD.
+","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.28026,51.52889,1.0729,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,10/08/2015,,,7,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,OCK_03,OCK_03,"Telephone Exchange, Darenth Lane, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.28198,51.50879,0.2528,Not owned by a  Public Authority,,Not Permissioned,,,,,9,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,OCK_05,OCK_05,"Jack O' Lantern Public House, Daiglen Drive, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.28347,51.51097,0.1604,Not owned by a  Public Authority,,Permissioned,Outline Planning Permission,31/05/2013,,,6,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,OCK_06,OCK_06,"Anton Road North, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.28585,51.51696,0.205,Owned by a  Public Authority,,Not Permissioned,,,,,7,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,OCK_07,OCK_07,"R/O 32/42 Anton Road, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.28579,51.51486,0.2042,Owned by a  Public Authority,,Not Permissioned,,,,,7,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,OCK_08,OCK_08,"Arisdale Industrial Estate (remainder), South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.28875,51.51998,3.4753,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,17/11/2014,,,373,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,OCK_10,OCK_10,"Land at Tamarisk Road, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.29065,51.5212,0.3473,Not owned by a  Public Authority,,Not Permissioned,,,,,12,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,OCK_11,OCK_11,"R/O 93-111 Araglen Avenue, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.29024,51.51215,0.1199,Owned by a  Public Authority,,Not Permissioned,,,,,4,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,OCK_12,OCK_12,"Araglen Avenue, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.2903,51.51076,0.2444,Owned by a  Public Authority,,Not Permissioned,,,,,9,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,OCK_13,OCK_13,"Tamarisk Road, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.29082,51.51663,0.1476,Owned by a  Public Authority,Developable,Not Permissioned,,,,,5,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,OCK_14,OCK_14,"Prince Of Wales, West Road, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.29589,51.52291,0.0641,Not owned by a  Public Authority,,Permissioned,Full Planning Permission,02/04/2015,,,2,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,OCK_16,OCK_16,"9-13 South Road, South Road, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.29708,51.52242,0.1119,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,11/05/2017,,,14,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,OCK_17,OCK_17,"Former Congregational Church, North Road, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.29778,51.52421,0.111,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,16/10/2013,,,4,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,OCK_24,OCK_24,"Derry Avenue, South Ockendon (residential/ retail)","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.28107,51.5093,0.9302,Owned by a  Public Authority,,Not Permissioned,,,,,33,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,OCK_31,OCK_31,"Lambourn House, 67 North Road, South Ockendon, RM15 6QA","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.2977,51.5265,0.1985,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,16/07/2015,,,9,,,,,,,,,30/12/2017,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,OCK_32,,"Piccadilly Whip Catering Ltd, Piccadilly House, Arisdale Avenue, South Ockendon","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.28891,51.51425,0.1073,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,22/08/2016,,,7,,,,,,,,,30/12/2017,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,ORS_19,ORS_19,"Pieris Place, Brentwood Road, Bulphan","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.36954,51.54755,3.1567,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,26/08/2016,,,19,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,ORS_22,ORS_22,"Manor House Farm, Brentwood Road, Bulphan","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.37155,51.55,0.6263,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,20/11/2015,,,6,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,ORS_29,ORS_29,"Southfields, Land Adjoining Essay Villa, Grosvenor Road, Orsett","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.3882,51.50562,0.1845,Not owned by a  Public Authority,,Permissioned,Full Planning Permission,30/04/2013,,,6,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,ORS_31,,"Balgownie Farm, Lower Dunton Road, Bulphan","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.39264,51.55536,0.8513,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,26/04/2017,,,6,,,,,,,,,30/12/2017,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,ORS_41,ORS_41,"Sandown Nurseries, Sandown Road, Orsett, RM16 3DD","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.39712,51.50701,0.3085,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,22/09/2015,,,7,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,SCH_01,SCH_01,"Bannatynes Health Spa, Howard Road, Chafford Hundred, Grays, RM16 6YJ","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.2919,51.4917,1.1089,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,14/09/2009,,,63,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,SEC_01,SEC_01,"Graham James Primary School (part of), The Sorrells, Stanford Le Hope","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.44492,51.52356,2.7157,Owned by a  Public Authority,,Not Permissioned,,,,,95,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,SEC_02,SEC_02,"First Floor, Grover House, Grover Walk, Corringham","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.4464,51.5245,0.0645,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,13/09/2013,,,9,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,SEC_04,SEC_04,"The New Pompadour, St Johns Way, Corringham, SS17 7NA","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.44789,51.52442,0.1442,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,24/01/2017,,,23,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,STC_03,STC_03,"Garages R/O 117 - 133 Crammavill Street, Stifford Clays, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32301,51.49757,0.2871,Owned by a  Public Authority,,Not Permissioned,,,,,10,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,STC_04,STC_04,"Land at Stifford Clays Baptist Church, Fleethall Grove, Crammavill Street, Stifford Clays, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32357,51.49877,0.4542,Owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,13/05/2016,,,8,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,STC_05,STC_05,"Garages Rear of Chafford Way, Stifford Clays, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.32635,51.50009,0.1849,Owned by a  Public Authority,,Not Permissioned,,,,,6,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,STC_07,STC_07,"Motor Garage, Crammavill Street, Stifford Clays, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.33033,51.49823,0.249,Not owned by a  Public Authority,,Not Permissioned,,,,,9,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,STW_03,STW_03,"Stanford Road (rear of Oxford Road cul-de-sac), Stanford","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.41358,51.51195,0.5424,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,11/10/2011,,,14,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,STW_07,STW_07,"Stanford Yard, Rear of 2 and 3 Ruskin Road, Stanford-le-hope","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.42019,51.51344,0.1535,Not owned by a  Public Authority,,Not Permissioned,,,,,5,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,STW_08,STW_08,"Workshops, Poley Road, Stanford-Le-Hope, SS17 0JJ","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.42097,51.51493,0.1852,Not owned by a  Public Authority,,Not Permissioned,,,,,6,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,STW_09,STW_09,"Stanford Body Repairs, Ruskin Road, Stanford Le Hope","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.42115,51.51379,0.0676,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,02/04/2015,,,7,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,STW_10,STW_10,"Gas PRS Site, Butts Road, Stanford Le Hope","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.42164,51.51612,0.6367,Not owned by a  Public Authority,,Not Permissioned,,,,,22,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,STW_11,STW_11,"Coal/Wood Yard, Butts Road, Stanford Le Hope","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.42214,51.51554,0.3177,Not owned by a  Public Authority,,Not Permissioned,,,,,11,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,STW_12,STW_12,"Baryta Close, Stanford-Le-Hope","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.42337,51.51551,2.0248,Not owned by a  Public Authority,,Not Permissioned,,,,,71,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,STW_15,STW_15,"1/2, Southend Road, Stanford Le Hope, SS17 0PQ","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.42626,51.51678,0.083,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,18/04/2011,,,17,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,STW_16,STW_16,"R/O 42 King Street, Stanford-Le-Hope","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.4262,51.51531,0.4177,Not owned by a  Public Authority,,Not Permissioned,,,,,15,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,STW_17,STW_17,"Land Adjacent 1 The Green, Stanford Le Hope","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.4267,51.51466,0.1007,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,22/03/2017,,,5,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,STW_19,STW_19,"Telephone Exchange, 25 - 27 Featherstone Road, Stanford-Le-Hope","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.42869,51.51495,0.2364,Not owned by a  Public Authority,,Not Permissioned,,,,,8,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,STW_20,STW_20,"Cabborns Crescent, Stanford-le-Hope","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.42958,51.51013,0.0952,Owned by a  Public Authority,,Not Permissioned,,,,,3,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,STW_21,STW_21,"Land To Rear Of 57-71 And 67, Wharf Road, Stanford-le-Hope","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.43001,51.51189,0.2155,Not owned by a  Public Authority,,Not Permissioned,,,,,8,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,STW_22,STW_22,"Tanglewood, Billet Lane, Stanford Le Hope","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.43269,51.51475,0.1569,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,16/01/2007,,,16,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,STW_23,STW_23,"Abbotts Hall Chase, Stanford-le-Hope","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.43945,51.51718,0.169,Owned by a  Public Authority,,Not Permissioned,,,,,6,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_03,TRV_03,"Station North Site, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.3539,51.46312,0.6232,Not owned by a  Public Authority,,Not Permissioned,,,,,22,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_04,TRV_04,Tilbury Station,"https://thurrock.gov.uk/brownfield-map
+",WGS84,0.35403,51.46233,0.4778,Not owned by a  Public Authority,,Not Permissioned,,,,,17,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_05,TRV_05,"Former Petrol Station Dock Road, 221 - 223 Dock Road, Tilbury (larger boundary)","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.35537,51.46199,0.2498,Not owned by a  Public Authority,,Not Permissioned,,,,,9,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_06,TRV_06,"128 Dock Road, Tilbury/Car Park, Selwyn Road, Tilbury (larger boundary)","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.35549,51.46289,0.3951,Owned by a  Public Authority,,Not Permissioned,,,,,14,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_07,TRV_07,"Rourke's Drift Guest House, 197 Dock Road, Tilbury, RM18 7BT","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.35641,51.4614,0.193,Not owned by a  Public Authority,Developable,Not Permissioned,,,,,7,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_08,TRV_08,"Former Labour Exchange, Tilbury House, Calcutta Road, Tilbury (larger boundary)","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.35742,51.46178,0.0971,Not owned by a  Public Authority,,Not Permissioned,,,,,3,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_09,TRV_09,"Unit 12, M J  C Transport, Lansdowne Road, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.35861,51.46221,0.1618,Not owned by a  Public Authority,,Not Permissioned,,,,,6,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_12,TRV_12,"Telephone Exchange, Calcutta Road, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.35938,51.46162,0.0995,Not owned by a  Public Authority,,Not Permissioned,,,,,3,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_13,TRV_13,"Land at Adelaide Road/Hobart Road, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.36009,51.46473,0.0946,Owned by a  Public Authority,,Not Permissioned,,,,,3,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_14,TRV_14,"Tilbury Market, Calcutta Road, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.36024,51.46205,0.3666,Owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,28/06/2017,,,36,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_15,TRV_15,"Dunedin House, Calcutta Road, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.3604,51.46151,0.1965,Not owned by a  Public Authority,,Not Permissioned,,,,,7,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_16,TRV_16,"Land at Sydney Road, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.3624,51.46008,0.1001,Owned by a  Public Authority,,Not Permissioned,,,,,4,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_17,TRV_17,"Montreal Road, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.36291,51.45948,1.1328,Not owned by a  Public Authority,,Not Permissioned,,,,,40,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_18,TRV_18,"Commonwealth House, Montreal Road, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.36309,51.46105,0.7252,Not owned by a  Public Authority,,Not Permissioned,,,,,25,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_20,TRV_20,"Tilbury Community Association Hall, Civic Square, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.36404,51.46122,0.2887,Owned by a  Public Authority,,Not Permissioned,,,,,10,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_21,TRV_21,"Newton Road (Garages), Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.36459,51.45813,0.0831,Owned by a  Public Authority,,Not Permissioned,,,,,3,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_22,TRV_22,"Police Station, Civic Square, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.3652,51.46094,0.4034,Owned by a  Public Authority,,Not Permissioned,,,,,14,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_23,TRV_23,"Hume Avenue Industrial Area, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.36526,51.45815,2.3949,Owned by a  Public Authority,,Not Permissioned,,,,,84,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_24,TRV_24,"Health Centre, London Road, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.36622,51.46089,0.1862,Not owned by a  Public Authority,,Not Permissioned,,,,,7,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_25,TRV_25,"Site at the corner of Brennan Road and London Road, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.36682,51.46155,0.4608,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,21/05/2013,,,47,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_27,TRV_27,"London Road, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.36883,51.46027,1.251,Not owned by a  Public Authority,,Not Permissioned,,,,,44,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_28,TRV_28,"Thurrock Plant Tool Hire, The Gatehouse, Sandhurst Road, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.37751,51.46157,0.1431,Not owned by a  Public Authority,,Not Permissioned,,,,,5,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TRV_35,TRV_35,"Tilbury Resource Centre, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.36565,51.46159,0.1894,Owned by a  Public Authority,,Not Permissioned,,,,,7,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TSC_02,TSC_02,"New Calcutta Club, 46 - 48 Calcutta Road, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.36142,51.46192,0.1634,Not owned by a  Public Authority,,Not Permissioned,,,,,6,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TSC_03,TSC_03,"St Chads School, St Chads Road, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.36294,51.46752,3.23,Owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,24/06/2015,,,128,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TSC_04,TSC_04,"Calcutta Road Shops, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.36277,51.46188,0.3828,Not owned by a  Public Authority,,Not Permissioned,,,,,13,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TSC_06,TSC_06,"St Chads Corner, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.36403,51.46194,0.172,Not owned by a  Public Authority,,Not Permissioned,,,,,6,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TSC_07,TSC_07,"Chapharm Ltd, 2 - 3 Civic Square, Tilbury","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.36487,51.46222,0.0478,Not owned by a  Public Authority,,Not Permissioned,,,,,2,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,TSC_08,TSC_08,"The Anchor, Civic Square, Tilbury, RM18 8AD","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.36645,51.46216,0.2201,Not owned by a  Public Authority,,Not Permissioned,,,,,8,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,WTS_02,WTS_02,"MOT Centre, Tank Hill Road, Purfleet","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.23216,51.48774,1.6553,Not owned by a  Public Authority,,Not Permissioned,,,,,58,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,WTS_03,WTS_03,Purfleet Centre,"https://thurrock.gov.uk/brownfield-map
+",WGS84,0.24083,51.48083,56.8596,Owned by a  Public Authority,Developable,Permissioned,Outline Planning Permission,23/05/2013,,,1990,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,WTS_07,WTS_07,"Re-Development Site (remainder), Schoolfield Road, West Thurrock","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.2777,51.4745,1.4385,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,28/08/2014,,,55,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,WTS_09,WTS_09,"The New Venue, Flint Street, West Thurrock","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.28367,51.4745,0.3849,Not owned by a  Public Authority,,Permissioned,Full Planning Permission,28/09/2017,,,13,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,WTS_11,WTS_11,"West of Sandy Lane, West Thurrock, RM20 3BJ","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.28647,51.47685,0.2018,Not owned by a  Public Authority,,Not Permissioned,,,,,7,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,WTS_12,WTS_12,"East of Sandy Lane, West Thurrock","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.28729,51.47715,1.2456,Not owned by a  Public Authority,,Not Permissioned,,,,,44,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,WTS_13,WTS_13,"Site West of Manor Road, London Road, West Thurrock","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.28856,51.47541,0.8822,Not owned by a  Public Authority,,Not Permissioned,,,,,31,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,WTS_15,WTS_15,"Peaceful Row Lorry Park, London Road, West Thurrock","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.28984,51.47578,0.678,Not owned by a  Public Authority,,Not Permissioned,,,,,24,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,WTS_16,WTS_16,"Land Off Manor Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.29006,51.475,1.7884,Not owned by a  Public Authority,,Not Permissioned,,,,,63,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,WTS_17,WTS_17,"The Vicarage, 565 London Road, Grays, RM20 4AR","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.29086,51.47585,0.1823,Not owned by a  Public Authority,,Not Permissioned,,,,,6,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,WTS_21,WTS_21,"Acorn Trading Estate, Gumley Road, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.30424,51.47623,2.5517,Not owned by a  Public Authority,,Not Permissioned,,,,,89,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,WTS_26,WTS_26,"South of West Thurrock Way/East of Euclid Way, West Thurrock (Retail/Housing/Community use)","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.27632,51.48304,10.3923,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,28/07/2017,,,364,,,,,,,,,30/06/2016,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,WTS_31,,"Land At 545 London Road, South Stifford","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.29449,51.47662,0.1569,Not owned by a  Public Authority,Yes,Not Permissioned,,,,,14,,,,,,,,,30/12/2017,29/12/2017
+"http://opendatacommunities.org/id/unitary-authority/thurrock
+",Thurrock,WTS_50,,"310 London Road, South Stifford, Grays","https://thurrock.gov.uk/brownfield-map
+",WGS84,0.30407,51.47806,0.0855,Not owned by a  Public Authority,Yes,Permissioned,Full Planning Permission,19/01/2017,,,7,,,,,,,,,30/12/2017,29/12/2017

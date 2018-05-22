@@ -1,0 +1,33 @@
+OrganisationURI,OrganisationLabel,SiteReference,PreviouslyPartOf,SiteNameAddress,SiteplanURL,CoordinateReferenceSystem,GeoX,GeoY,Hectares,OwnershipStatus,Deliverable,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,ProposedForPIP,MinNetDwellings,DevelopmentDescription,NonHousingDevelopment,Part2,NetDwellingsRangeFrom,NetDwellingsRangeTo,HazardousSubstances,SiteInformation,Notes,FirstAddedDate,LastUpdatedDate
+http://opendatacommunities.org/id/district-council/kettering,Kettering Borough Council,BFR K2,,"Scott Road Garages, Scott Road, Kettering, NN16 9JY",https://maphub.net/NNJPU/brownfield-sites,OSGB36,487396.51,280288.78,0.43,owned by a public authority,,not permissioned,,,At Planning Policy Committee on 05.09.17 it was agreed to designate this site as a draft housing allocation in the draft Part 2 Local plan for consultation with a potential yield of 25 dwellings. Potential housing allocation in Kettering Borough Council's Part 2 Local Plan.,,25,,,,12,25,,"A sewer easement crosses the site.
+","Previously assessed through SHLAA as site 705.
+
+Council owned site. Preference would be for affordable housing on site.
+
+Different dwelling capaciites have been calculated for the site dependent on potential densities to be applied (taking account of the surrounding area). These entail either 17 houses at 50dph or 12 houses at 35 dph and these values take account (exclude) an area of the site under which a sewer easement runs. ",30/06/2016,31/12/2017
+http://opendatacommunities.org/id/district-council/kettering,Kettering Borough Council,BFR K3,,"Kettering Football Club, Rockingham Road, Kettering, NN16 9EU",https://maphub.net/NNJPU/brownfield-sites,OSGB36,486593.37,279982.45,1.62,not owned by a public authority,,not permissioned,,,"At Planning Policy Committee on 05.09.17 it was agreed to designate this site as a draft housing allocation in the draft Part 2 Local plan for consultation with a potential yield of 88 dwellings. An application of Prior Nofication of Demolition has been received for the site, (ref. KET/2017/0761) and this has been since undertaken.",,88,,,,88,88,,Previously assessed through SHLAA as site 732.,"Privately owned site with a landowner keen to redevelop.
+
+Former stadium of Kettering Town Football Club. Site has not been used for footballing purposes for a number of years. Stadium demolished in 2017.",30/06/2016,31/12/2017
+http://opendatacommunities.org/id/district-council/kettering,Kettering Borough Council,BFR K8,,"Land At Rothwell Town Football Club, Cecil Street, Rothwell, NN14 6EZ",https://maphub.net/NNJPU/brownfield-sites,OSGB36,481629.76,281514.83,1.6,not owned by a public authority,,permissioned,full planning permission,27/11/2015,"KET/2014/0233 - 80 dwellings approved 27.11.15
+
+Details are available here: http://www.kettering.gov.uk/planningApplication?thisWeek=0&appNumber=KET%2F2014%2F0233&submit=Go",,80,,,,80,80,,Previously assessed through SHLAA as site 1027,,30/06/2016,31/12/2017
+http://opendatacommunities.org/id/district-council/kettering,Kettering Borough Council,BFR K15,,"Desborough Leisure Centre, Off Broadlands, Desborough, NN14 2YH",https://maphub.net/NNJPU/brownfield-sites,OSGB36,481326.27,282839.22,3.42,owned by a public authority,,,,,"Former Leisure Centre has been demolished. Site has been subject to an application for 304 dwellings (KET/2016/0044) albeit this was refused on 26/05/2016. An appeal has been lodged to this decision and is currently in progress ( APP/L2820/W/16/3162430).
+
+Details are available here: http://www.kettering.gov.uk/planningApplication?thisWeek=0&appNumber=KET%2F2016%2F0044&submit=Go ",,46,,,,46,46,,"Previously assessed through SHLAA as site 1165.
+
+","Here it is assumed that development will only happen on the PDL element of site (and not the larger, wider site which includes extensive tracts of Greenfield). To derive these estimates it has been calculated that only 30% of the wider site is PDL so 70% of the overall site has been discounted for development.",30/06/2016,31/12/2017
+http://opendatacommunities.org/id/district-council/kettering,Kettering Borough Council,BFR K17,,"Land At Bosworth's Nursery And Garden Centre, Finedon Road, Burton Latimer, NN15 5QA",https://maphub.net/NNJPU/brownfield-sites,OSGB36,489519.82,273939.83,1.19,not owned by a public authority,,,,,"KET/2013/0750 - 69 dwellings - approved 27.06.14. Reserved matters application received 10.01.17, target decision date 31.10.17.  (ref. KET/2016/0883).          
+
+Details are available here: http://www.kettering.gov.uk/planningApplication?thisWeek=0&appNumber=KET%2F2013%2F0750&submit=Go ",,69,,,,69,69,,Previously assessed through SHLAA as site 2185,,30/06/2016,31/12/2017
+http://opendatacommunities.org/id/district-council/kettering,Kettering Borough Council,BFR K24,,"Rothwell Town FC, Cambridge Street, Rothwell, NN14 6HA",https://maphub.net/NNJPU/brownfield-sites,OSGB36,481657.55,281572.79,0.39,not owned by a public authority,,not permissioned,,,,,16,,,,16,16,,,"See County Council map for additional details on features which may affect site:
+
+http://maps.northamptonshire.gov.uk/  ",30/06/2016,31/12/2017
+http://opendatacommunities.org/id/district-council/kettering,Kettering Borough Council,BFR K30,,"Rockingham Dene, Rockingham Road, Kettering, NN16 9JW",https://maphub.net/NNJPU/brownfield-sites,OSGB36,486328.68,280418.86,0.44,owned by a public authority,,,,,"Outline consent for 9 dwellings exists on the land adjacent to this site (KET/2015/0220) but BFR K30 itself has no extant permission.
+
+Site was previously occupied by a Children's Care Home which closed in July 2002 and was demolished thereafter. 
+
+Site was subject to a previous application for 28 dwellings (KET/2007/0990) which Committee resolved to grant permission for (subject to S.106) albeit this was never completed and the application was disposed of by the Council in September 2012.
+
+Details are available here:  http://www.kettering.gov.uk/planningApplication?thisWeek=0&appNumber=KET%2F2013%2F0750&submit=Go ",,9,,,,9,9,,Tree Preservation Orders exist on the site (TPO 2008 No6).,"See County Council map for additional details on features which may affect site:
+
+http://maps.northamptonshire.gov.uk/  ",30/06/2016,31/12/2017

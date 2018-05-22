@@ -1,0 +1,72 @@
+OrganisationURI,OrganisationLabel,SiteReference,PreviouslyPartOf,SiteNameAddress,SiteplanURL,CoordinateReferenceSystem,GeoX,GeoY,Hectares,OwnershipStatus,Deliverable,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,ProposedForPIP,MinNetDwellings,DevelopmentDescription,NonHousingDevelopment,Part2,NetDwellingsRangeFrom,NetDwellingsRangeTo,HazardousSubstances,SiteInformation,Notes,FirstAddedDate,LastUpdatedDate
+"http://opendatacommunities.org/id/district-council/forest-heath 
+
+","ForestHeathDistrictCouncil
+
+",BF002,,"""LandOffTheGrove,BeckRow""","http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF002&StartZoom=500
+",OSGB36,567924,277914,0.83,unknown ownership,yes,not permissioned,,,,,73,"""Brownfield -dwellings and grounds outside settlement boundary""",,,,,,LINK TO SHLAA,"""SHLAA REF BR/05""
+""SHLAA allocation Mixed use""",01/09/2017,
+"http://opendatacommunities.org/id/district-council/forest-heath 
+
+","ForestHeathDistrictCouncil
+
+",BF006,,"""WarrenClose,Brandon""",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF006&StartZoom=500,OSGB36,578568,286370,0.39,not owned by a public authority,yes,not permissioned,,,,,23,"""Brownfield, previous library and preschool""",,,,,,LINK TO SHLAA,"""SHLAA REF B/29""
+""SALP REF SA2(A) - residential""",01/09/2017,
+"http://opendatacommunities.org/id/district-council/forest-heath 
+
+","ForestHeathDistrictCouncil
+
+",BF007,,"""LandOffGasHouseLane,Brandon""",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF007&StartZoom=500,OSGB36,578871,286573,0.35,not owned by a public authority,yes,pending decision,,,,,10,"""Brownfield, previous gasworks""",,,,,,LINK TO SHLAA,"""SHLAA REF B/31""
+""SALP REF SA2(b) - residential""
+""DC/16/1450/OUT - 10 dwellings; pending""",01/09/2017,
+"http://opendatacommunities.org/id/district-council/forest-heath 
+
+","ForestHeathDistrictCouncil
+
+",BF012,,"""Landrearof65,69,73StationRoad,Lakenheath""",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF0012&StartZoom=500,OSGB36,571506,283664,0.81,unknown ownership,yes,not permissioned,,,,,24,"""Brownfield- gardens within settlement boundary, but not town""",,,,,,LINK TO SHLAA,"""SHLAA REF L/03""",01/09/2017,
+"http://opendatacommunities.org/id/district-council/forest-heath 
+
+","ForestHeathDistrictCouncil
+
+",BF014,F/2010/0337/OUT,"""MatthewsNurserySite,DumplingBridgeLane,Lakenheath""",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF014&StartZoom=500,OSGB36,571244,282988,1.86,mixed ownership,yes,permissioned,reserved matters approval,06/08/2015,,,13,"""Mixed - glasshouses and open land within settlement boundary""",,,,,,LINK TO PLANNING APPLICATION,"""F/2010/0337/OUT - 13 dwellings approved 28/02/12""
+""SHLAA REF L/29""
+""SALP REF ""SA7(a) - mixed""",01/09/2017,
+"http://opendatacommunities.org/id/district-council/forest-heath 
+
+","ForestHeathDistrictCouncil
+
+",BF015,,"""DistrictCouncilOffices,CollegeHeathRoad,Mildenhall""",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF015&StartZoom=500,OSGB36,571688,274950,2.01,owned by public authority,yes,not permissioned,,,,,89,"""Brownfield- Council offices""",,,,,,LINK TO SITE ALLOCATIONS LOCAL PLAN,"""SHLAA REF M/46""
+""SALP REF SA5(b) - residential""",01/09/2017,
+"http://opendatacommunities.org/id/district-council/forest-heath 
+
+","ForestHeathDistrictCouncil
+
+",BF016,,"""LandAtWamilCourt,Mildenhall""",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF016&StartZoom=500,OSGB36,570699,274509,0.62,owned by public authority,yes,not permissioned,,,,,19,"""Brownfield - care home""",,,,,,LINK TO SHLAA,"""SHLAA REF M/47""",01/09/2017,
+"http://opendatacommunities.org/id/district-council/forest-heath 
+
+","ForestHeathDistrictCouncil
+
+",BF019,DC/15/2321/OUT,"""FormerSwimmingPoolSite,Newmarket""",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF019&StartZoom=500,OSGB36,563811,263057,0.26,not owned by a public authority,yes,not permissioned,,,,,14,"""Brownfield - old swimming pool site and disused public house within settlement boundary""",,,,,,LINK TO PLANNING APPLICATION,"""SHLAA REF N/29""
+""SALP REF ""SA6(b) - mixed""
+""Planning application for 7 units relates to part of site at Public House""",01/09/2017,
+"http://opendatacommunities.org/id/district-council/forest-heath 
+
+","ForestHeathDistrictCouncil
+
+",BF020,,"""StFelixMiddleSchoolSite,Newmarket""",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF020&StartZoom=500,OSGB36,563964,264804,1.39,owned by public authority,yes,not permissioned,,,,,50,"""Mixed - playingfields, outbuildings assoc with school, in settlement boundary""",,,,,,LINK TO SHLAA,"""SHLAA REF N/32""
+""SHLAA allocation Mixed use""
+",01/09/2017,
+"http://opendatacommunities.org/id/district-council/forest-heath 
+
+","ForestHeathDistrictCouncil
+
+",BF021,,"""LandOffTurnpikeRoad,RedLodge""",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF021&StartZoom=500,OSGB36,569376,270131,2.56,mixed ownership,yes,pending decision,,,,,132,"""Mixed - residential, haulage depot, mobile home park, garage""",,,,,,LINK TO SITE ALLOCATIONS LOCAL PLAN,"""Planning application is for 55 dwellings""
+""SHLAA REF RL/03""
+""SALP REF SA9(a) - residential""
+""SHLAA allocation Mixed use""",01/09/2017,
+"http://opendatacommunities.org/id/district-council/forest-heath 
+
+","ForestHeathDistrictCouncil
+
+",BF027,,"""LandOffPottHallRoad,WestRow""",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF027&StartZoom=500,OSGB36,568182,275264,0.55,mixed ownership,yes,not permissioned,,,,,174,"""Mixed - agricultural and residential within settlement boundary""",,,,,,LINK TO SHLAA,"""SHLAA REF WR/25""
+""SHLAA allocation Mixed use""",01/09/2017,

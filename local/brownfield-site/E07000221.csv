@@ -1,0 +1,674 @@
+<!doctype html>
+<html lang="en" prefix="fb: http://ogp.me/ns/fb#"
+	
+	
+>
+
+	<head>
+
+		
+		
+
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2334822-1"></script>
+			<script>
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+
+				gtag('config', 'UA-2334822-1');
+			</script>
+
+		
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		
+		
+		<title>Internal Server Error | Stratford-on-Avon District Council</title>
+
+		
+		<link type="text/plain" rel="author" href="/humans.txt" />
+
+		
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+		<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#009390">
+		<meta name="theme-color" content="#009390">
+
+		
+		<link href="https://fonts.googleapis.com/css?family=Yantramanav:100,300,400" rel="stylesheet">
+		<link href="/css/jquery-ui.min.css" rel="stylesheet">
+		<link href="/css/bootstrap.css" rel="stylesheet">
+		<link href="/css/font-awesome.min.css" rel="stylesheet">
+		<link href="/css/main.css" rel="stylesheet">
+
+		
+		
+		<link href="/css/accessibility-modal.css" rel="stylesheet">
+		
+		<link href="/css/print.css" rel="stylesheet">
+		
+
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+		
+		
+			<meta property="og:url"									content="https://www.stratford.gov.uk/templates/server/error-500.cfm" />
+			<meta property="og:title"								content="Internal Server Error | Stratford-on-Avon District Council" />
+			<meta property="og:description"							content="Stratford-on-Avon District Council - pay, apply, report and sign up online" />
+			<meta property="og:image"								content="https://www.stratford.gov.uk/img/fb-share-image.png" />
+			<meta property="fb:app_id"								content="124902551396119" />
+
+			<meta property="og:type"								content="business.business" />
+			<meta property="og:locale"								content="en_GB" />
+
+			<meta property="business:contact_data:street_address"	content="Elizabeth House, Church Street" />
+  			<meta property="business:contact_data:locality"			content="Stratford-upon-Avon" />
+  			<meta property="business:contact_data:postal_code"		content="CV37 6HX" />
+  			<meta property="business:contact_data:country_name"		content="England" />
+			<meta property="business:hours:day"						content="Monday" />
+			<meta property="business:hours:start"					content="08:45" />
+			<meta property="business:hours:end"						content="17:15" />
+  			<meta property="place:location:latitude"				content="52.190117" />
+  			<meta property="place:location:longitude"				content="-1.7109887" />
+		
+	</head>
+
+
+	<body class="content ">
+		<a id="topofpage"></a>
+
+		<div class="mobile-top-bar stick stick-top">
+
+			
+			
+			<div class="alert alert-info site-alert">
+				<div class="row">
+					<div class="col-xs-20 col-xs-offset-2 text-center">
+						<h4>PCN Payments</h4>
+					</div>
+					<div class="col-xs-2">
+						<span class="btn-alert-close" data-id="134082">
+						<span class="hidden-xs">Close</span>
+						<i class="fa fa-times visible-xs hidden-sm hidden-md hidden-lg"></i>
+						</span>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-xs-24 text-center">
+						<h6>We regret to inform you that we cannot currently accept any PCN Payments due to a technical issue with our payments portal which our provider is investigating. We apologise for any inconvenience caused<h6>
+					</div>
+				</div>
+			</div>
+			
+    <h6 class="site-cookie-alert text-center">
+        Our website uses cookies to enhance user experience. <br class="visible-xs"><a href="/toolkit/cookies.cfm">Find out more about cookies</a>
+        <i class="pull-right fa fa-times btn-cookie-close"></i>
+    </h6>
+    
+
+			
+			<nav class="navbar-default visible-xs hidden-sm hidden-md hidden-lg">
+				<div class="container-fluid">
+					<div class="navbar-header">
+						<li class="logo">
+							<a class="" href="/index.cfm" title="Home">
+								<img src="/img/sdc-round-logo-white-small.png" />
+							</a>
+						</li>
+						<li>
+							<a href="/index.cfm" title="Home">
+								<h4 class="top-bar-title">Stratford-on-Avon<br />District Council</h4>
+							</a>
+						</li>
+					</div>
+				</div>
+			</nav>
+
+			
+			<div class="container sdc-page-header hidden-xs">
+				<ul class="service-nav no-bullets">
+					<li class="logo">
+						<a class="" href="/index.cfm" title="Home">
+							<img src="/img/sdc-round-logo-white-small.png" />
+						</a>
+					</li>
+					<li>
+
+					</li>
+					<li>
+						<div class="hamburger text-right hidden-xs">
+							<span class="bar"></span>
+						</div>
+						
+						
+<div class="navbar-inline no-bullets active">
+	<ul >
+		<li>
+			
+				<div class="search">
+					<div class="plate plate-dark text-center">
+						<form name="search" action="/search/index.cfm" method="post">
+							<label class="sr-only" for="frmSearchTerm1" aria-labelledby="frmSearchTerm1">Enter search term</label>
+							<div class="group-input">
+								<input type="hidden" name="searchtype" value="1" />
+								<input type="text" class="search-bar" name="frmSearchTerm" id="frmSearchTerm1" placeholder="Search...">
+								<button type="submit" class="btn-icon">
+									<i class="fa fa-search fa-2x"></i>
+								</button>
+							</div>
+						</form>
+					</div>
+				</div>
+			
+		</li>
+		<li>
+			<a href="/news/"><i class="fa fa-newspaper-o"></i>News</a>
+		</li>
+		<li>
+			<a href="/#contact"><i class="fa fa-envelope-o"></i>Contact</a>
+		</li>
+		<li>
+			<a href="#"data-toggle="modal" data-target="#accessibility-settings"><i class="fa fa-wheelchair"></i>Access<span class="hidden-sm">ibility</span></a>
+		</li>
+		<li class="text-center hidden-xs">
+			
+			<a href="/mydistrict" class="has-icon btn-my-account">
+				<i class="fa fa-tasks"></i>
+				<span class="btn-my-account-text">My District</span>
+			</a>
+		</li>
+		
+	</ul>
+</div>
+
+					</li>
+				</ul>
+			</div>
+		</div>
+
+		
+		<div class="main-navigation visible-xs stick stick-bottom">
+			<nav class="navbar-default">
+				<div class="container">
+					<ul class="nav navbar-nav">
+						<li class="text-center"><a href="#" class="has-xs-icon" data-toggle="modal" data-target="#pop-search"><i class="visible-xs fa fa-search"></i>Search</a></li>
+						<li class="text-center"><a href="/#services" class="has-xs-icon"><i class="visible-xs fa fa-th-large"></i>Services</a></li>
+						<li class="text-center"><a href="#contact" class="has-xs-icon"><i class="visible-xs fa fa-envelope-o"></i>Contact</a></li>
+						<li class="text-center"><a href="#" class="has-xs-icon show-more-links"><i class="visible-xs fa fa-th-large"></i>More...</a></li>
+					</ul>
+				</div>
+			</nav>
+			<div class="icon-bar">
+				<ul class="nav no-bullets">
+					<li>
+						<a href="#" data-toggle="modal" data-target="#login-form" class="btn-my-account login-button"
+							
+								data-form="login">
+								<i class="fa fa-user-o"></i>
+								<span class="btn-my-account-text">Log in</span>
+							
+						</a>
+					</li>
+					<li>
+						<a href="/news">
+							<i class="fa fa-newspaper-o fa-2x"></i>
+							News
+						</a>
+					</li>
+					<li>
+						<a href="#" class="has-icon" data-toggle="modal" data-target="#accessibility-settings">
+							<i class="fa fa-wheelchair"></i>Accessibility
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="header container" id="service-header">
+
+			<div class="sdc-page-title">
+				<h1><?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="error-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve">
+<g id="Error">
+	<path class="svg-gray" d="M40,6l14,14v20L40,54H20L6,40V20L20,6H40z M41.9,1.2H18.1L1.2,18.1V42l16.9,16.9H42L58.9,42V18.1
+		C58.8,18.1,41.9,1.2,41.9,1.2z"/>
+	<path class="svg-green" d="M26.9,19.2c-0.2-1.9,1.3-3.7,3.2-3.7c1.9,0,3.3,1.6,3.1,3.5l-1.8,14.5c-0.1,0.7-0.7,1.2-1.3,1.2
+		s-1.3-0.5-1.4-1.2C28.6,33.6,26.9,19.2,26.9,19.2z M30,45c-1.7,0-3-1.3-3-3s1.3-3,3-3s3,1.3,3,3S31.7,45,30,45z"/>
+</g>
+</svg>
+</h1>
+
+				
+				 
+		<h2>Sorry - we haven't been able to serve the page you asked for.</h2>
+		<p>There has been an error while displaying the page</p>
+	
+
+				<p>You can either go to the <a href='/' title='Home page'>Home Page </a> or use the search below.</p>
+			</div>
+		</div>
+
+		
+		<div class="container content-container">
+			<div class="row">
+				<div class="sdc-panel content-panel col-xs-24">
+
+					
+					<div class="row search" id="search">
+	<form name="search" action="/search/index.cfm" method="post">
+		<div class="plate plate-light text-center">
+			<h3>
+				<span class="hidden-xs">What can we help you find?</span>
+				<span class="visible-xs">How can we help?
+			</h3>
+
+			
+
+			<div class="col-xs-24 col-sm-4 hidden">
+				<input type="hidden" name="clearHistory" value="" />
+				<input type="hidden" id="frmType" name="frmType" value="or" />
+				<input type="hidden" id="frmArea" name="frmArea" value="" />
+				<input type="hidden" id="frmContent" name="frmContent" value="0" />
+				<input type="hidden" id="frmExact" name="frmExact" value="0" />
+				<input type="hidden" id="frmContainer" name="frmContainer" value="" />
+			</div>
+
+			<div class="col-xs-24 col-sm-24">
+				<label class="sr-only" for="frmSearchTerm1"></label>
+				<div class="group-input">
+					<input type="text" class="search-bar" name="frmSearchTerm" id="frmSearchTerm1" value="" placeholder="Search...">
+					<button type="submit" class="btn-icon">
+						<i class="fa fa-search fa-2x"></i>
+					</button>
+				</div>
+			</div>
+		</div>
+	</form>
+	<div class="col-xs-22 col-sm-23">
+		
+	</div>
+	
+</div>
+
+
+					<h6><strong> One more thing</strong> </h6>
+					<h6> If you want to tell us about broken links or send in your general comments about website, <a href="#feedback">please let us know</a>
+
+					
+
+				</div>
+			</div>
+		</div>
+
+		
+		
+
+
+<section id="contact" aria-labelledby="contact">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-20 col-xs-offset-2 col-sm-13 col-sm-offset-0 col-md-10 col-lg-9 section-heading">
+				<h3 class="section-title">Contact<small class="section-caption">Get in touch with us</small></h3>
+			</div>
+		</div>
+		<div class="row height-match-md-plus">
+			<div class="col-xs-20 col-xs-offset-2 col-sm-9 col-sm-offset-0 col-md-10 contact-details">
+				<div class="row height-match">
+					<div class="col-xs-12 col-sm-24 col-md-12 contact-area address">
+						<i class="fa fa-map-marker fa-2x"></i>
+						<p class="contact-details">
+							Elizabeth House<br />
+							Church Street<br />
+							Stratford-upon-Avon<br />
+							Warwickshire<br />
+							CV37 6HX
+						</p>
+					</div>
+					<div class=" col-xs-12 col-sm-24 col-md-12 contact-area">
+						<i class="fa fa-clock-o fa-2x text-danger" style="vertical-align: middle;"></i>
+						<p class="contact-details">
+
+							<span class="text-light"><span class="week-day">M</span> : 08:45 - 17:15</span><br />
+								<span class="text-light"><span class="week-day">T</span> : 08:45 - 17:15</span><br />
+								<span class="text-light"><span class="week-day">W</span> : 08:45 - 17:15</span><br />
+								<span class="text-light"><span class="week-day">T</span> : 08:45 - 17:00</span><br />
+								<span class="text-light"><span class="week-day">F</span> : 08:45 - 17:00</span><br />
+								
+
+						</p>
+					</div>
+				</div>
+				<div class="row height-match">
+					<div class="col-xs-12 col-sm-24 col-md-24 col-lg-12 contact-area phone">
+						<a href="tel:01789267575" title="Call SDC">
+							<i class="fa fa-phone fa-2x"></i>
+							<p class="contact-details">
+								01789 267575
+							</p>
+						</a>
+					</div>
+					<div class="col-xs-12 col-sm-24 col-md-24 col-lg-12 contact-area email">
+						<a href="mailto:info@stratford-dc.gov.uk" title="E-mail SDC">
+							<i class="fa fa-envelope fa-2x"></i>
+							<p class="contact-details">
+								info@stratford-dc.gov.uk
+							</p>
+						</a>
+					</div>
+				</div>
+				<div class="row height-match">
+					<div class="col-xs-12 col-sm-24 col-md-24 col-lg-12">
+						<a href="https://www.google.com/maps/place/Stratford-on-Avon+District+Council/" class="btn btn-default btn-block" target="_blank"><span class="hidden-xs">View on Google </span>Maps</a>
+					</div>
+					<div class="col-xs-12 col-sm-24 col-md-24 col-lg-12">
+						<a href="https://www.google.com/maps/dir//Stratford-on-Avon+District+Council,+Church+Street,+Stratford-upon-Avon,+United+Kingdom/" class="btn btn-default btn-block" target="_blank"><span class="hidden-xs">Get </span>Directions<span class="hidden-xs"> to Office</span></a>
+					</div>
+				</div>
+			</div>
+			<div class="hidden-xs col-sm-13 col-sm-offset-2 col-md-12 g-map">
+				
+			</div>
+		</div>
+	</div>
+</section>
+<section id="feedback" aria-labelledby="feedback">
+    <div class="container">
+        <div class="row">
+            <div class="sdc-panel panel-primary feedback-panel col-xs-22 col-xs-offset-1 col-sm-24 col-sm-offset-0">
+                <div class="panel-heading">
+                    <h4>
+                        <i class="fa fa-question-circle"></i>
+                        Is this information helpful?
+                        <i class="js-chevron fa fa-chevron-down pull-right"></i>
+                    </h4>
+                </div>
+                <div class="panel-body">
+                    <input type="hidden" class="form-control" value="/templates/server/error-500.cfm" data-name="Page" />
+                    <div class="row feedback-column">
+                        <div class="col-xs-8 col-sm-4 check-column">
+							<input class="form-control" type="radio" id="checkYes" name="radFeedback" data-name="Information Helpful" value="yes" aria-labelledby="checkYes" />
+							<label for="checkYes" aria-labelledby="checkYes"></label>
+							<label>Yes</label>
+						</div>
+						<div class="col-xs-8 col-sm-4 check-column">
+							<input class="form-control" type="radio" id="checkNo" name="radFeedback" data-name="Information Helpful" value="no" aria-labelledby="checkNo"/>
+							<label for="checkNo" aria-labelledby="checkNo"></label>
+							<label>No</label>
+						</div>
+                    </div>
+                    <div class="row row-no">
+                        <div class="col-xs-24 feedback-column">
+                            <label>Reason:</label>
+                            <select class="form-control" name="selReason" id="selReason" data-name="Reason" aria-labelledby="selReason">
+                                <option value="">Please Select Reason</option>
+                                <option value="1">There is a problem with the content / Information is missing / The page has broken links</option>
+                                <option value="2">I am seeing an error message</option>
+								<option value="99">Other</option>
+                            </select>
+                        </div>
+                        <div class="col-xs-24 feedback-column column-reason">
+                            <label class="sr-only">Specify the other reason</label>
+                            <input type="text" class="form-control" name="txtReason" id="txtReason" data-name="Other Reason" placeholder="Specify a Reason" aria-labelledby="txtReason" />
+                        </div>
+                        <div class="col-xs-24 feedback-column column-email">
+                            <label>Email:</label>
+                            <input type="text" class="form-control" id="txtEmail" name="txtEmail" data-name="Email" placeholder="Email" aria-labelledby="txtEmail"/>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-24 feedback-column column-suggest">
+                            <label>Comments / How can we make this page better?</label>
+                            <textarea class="form-control" id="txtSuggest" name="txtSuggest" data-name="Suggestions" aria-labelledby="txtSuggest"></textarea>
+                        </div>
+                    </div>
+					<input type="hidden" id="frmPageContact" name="frmPageContact" value="" />
+					
+					<div class="row">
+                        <div class="col-xs-24 text-right feedback-column column-submit">
+                            
+							<button class="btn btn-primary btn-submit-feedback">Submit Feedback</button>
+						</div>
+					</div>
+				</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="footer" class="footer" aria-labelledby="footer">
+	<h2 class="sr-only">Footer of the website</h2>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-24 col-md-12">
+				<ul class="footer-links no-bullets">
+					<li>
+						<a href="/help-info/sitemap.cfm">Sitemap</a>
+					</li>
+					<li>
+						<a href="/help-info/privacy-statement.cfm">Privacy</a>
+					</li>
+					<li>
+						<a href="/constitution">Constitution</a>
+					</li>
+					<li>
+						<a href="/help-info/disclaimer.cfm">Disclaimer</a>
+					</li>
+					<li>
+						<a href="/#contact">Contact us</a>
+					</li>
+				</ul>
+			</div>
+			<div class="col-sm-24 col-md-12 text-right social-links">
+				<a class="social-icon" target="_blank" href="https://www.facebook.com/StratfordDC">
+					<i class="fa fa-facebook-square fa-3x"></i>
+				</a>
+				<a class="social-icon" target="_blank" href="https://twitter.com/StratfordDC">
+					<i class="fa fa-twitter-square fa-3x"></i>
+				</a>
+				<a class="social-icon" target="_blank" href="https://www.flickr.com/photos/stratford-dc/">
+					<i class="fa fa-flickr fa-3x"></i>
+				</a>
+				<a class="social-icon" target="_blank" href="https://www.youtube.com/user/StratfordDC">
+					<i class="fa fa-youtube-square fa-3x"></i>
+				</a>
+				<a class="social-icon" target="_blank" href="https://plus.google.com/+StratfordDC">
+					<i class="fa fa-google-plus-square fa-3x"></i>
+				</a>
+			</div>
+		</div>
+		<div class="row copyright-info">
+			<div class="col-sm-12 col-sm-offset-6 text-center">
+				<img src="/img/sdc-round-logo-white-small.png" alt="SDC-Logo"/>
+				<p>&copy; 2016 Stratford-on-Avon District Council</p>
+			</div>
+		</div>
+	</div>
+</section>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script src="/js/bootstrap.js"></script>
+<script src="/js/main.js"></script>
+<script src="/js/search.js"></script>
+
+
+	<script src="/js/address-lookup.js"></script>
+
+		<script src="/js/content.js"></script>
+
+		
+		
+<div id="accessibility-settings" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="accessibility-settings-title">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 id="accessibility-settings-title" class="modal-title"><i class="fa fa-wheelchair"></i> Accessibility Settings</h4>
+            </div>
+            <div class="modal-body">
+                <div class="panel panel-default">
+                    <div class="panel-body setting-preview">
+                        <h4 class="settings-text">Preview</h4>
+                        <p class="settings-text">
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                            Lorem Ipsum has been the industry's <a href="#">standard dummy text</a> ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                        </p>
+                    </div>
+                </div>
+                <div class="panel panel-default setting">
+                    <div class="row setting-row">
+                        <div class="col-xs-24">
+                            <strong>Color</strong>
+                        </div>
+                    </div>
+                    <div class="row setting-row">
+                        <div class="col-xs-11 col-sm-10 col-xs-offset-1 setting-column" data-setting="colour" data-value="blue" title="Click to preview">
+                            <p>Blue</p>
+                        </div>
+                        <div class="col-xs-10 col-sm-10 col-xs-offset-1 setting-column" data-setting="colour" data-value="cream" title="Click to preview">
+                            <p>Cream</p>
+                        </div>
+                        <div class="col-xs-11 col-sm-10 col-xs-offset-1 setting-column" data-setting="colour" data-value="contrast" title="Click to preview">
+                            <p>Contrast</p>
+                        </div>
+                        <div class="col-xs-10 col-sm-10 col-xs-offset-1 setting-column" data-setting="colour" data-value="reverse" title="Click to preview">
+                            <p>Reverse Contrast</p>
+                        </div>
+                    </div>
+                    <div class="row setting-row">
+                        <div class="col-xs-24">
+                            <strong>Font</strong>
+                        </div>
+                    </div>
+                    <div class="row setting-row">
+                        <div class="col-xs-22 col-sm-7 col-xs-offset-1 setting-column" data-setting="font" data-value="default" title="Click to preview">
+                            <p>Default</p>
+                        </div>
+                        <div class="col-xs-22 col-sm-7 col-xs-offset-1 setting-column" data-setting="font" data-value="Times New Roman" title="Click to preview" style="font-family:'Times New Roman';">
+                            <p>Times New Roman</p>
+                        </div>
+                        <div class="col-xs-22 col-sm-6 col-xs-offset-1 setting-column" data-setting="font" data-value="Arial, Helvetica, sans-serif" title="Click to preview" style="font-family:Arial, Helvetica, sans-serif;">
+                            <p>Arial</p>
+                        </div>
+                    </div>
+                    <div class="row setting-row">
+                        <div class="col-xs-24">
+                            <strong>Font Size</strong>
+                        </div>
+                    </div>
+                    <div class="row setting-row">
+                        <div class="col-xs-22 col-sm-7 col-xs-offset-1 setting-column" data-setting="size" data-value="0" title="Click to preview">
+                            <p>Default</p>
+                        </div>
+                        <div class="col-xs-22 col-sm-7 col-xs-offset-1 setting-column" data-setting="size" data-value="1.1" title="Click to preview">
+                            <p>Large</p>
+                        </div>
+                        <div class="col-xs-22 col-sm-6 col-xs-offset-1 setting-column" data-setting="size" data-value="1.3" title="Click to preview">
+                            <p>Larger</p>
+                        </div>
+                    </div>
+                    <div class="row setting-row">
+                        <div class="col-xs-24">
+                            <strong>Letter Spacing</strong>
+                        </div>
+                    </div>
+                    <div class="row setting-row">
+                        <div class="col-xs-22 col-sm-7 col-xs-offset-1 setting-column" data-setting="spacing" data-value="0" title="Click to preview">
+                            <p>Default</p>
+                        </div>
+                        <div class="col-xs-22 col-sm-7 col-xs-offset-1 setting-column" data-setting="spacing" data-value="1.5" title="Click to preview" style="letter-spacing: 1.5px">
+                            <p>Wide</p>
+                        </div>
+                        <div class="col-xs-22 col-sm-6 col-xs-offset-1 setting-column" data-setting="spacing" data-value="2" title="Click to preview" style="letter-spacing: 2px">
+                            <p>Wider</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="more-settings">
+                More settings <i class="fa fa-caret-down"></i>
+            </div>
+            <div class="modal-footer">
+                <div class="row">
+                    <div class="col-xs-8">
+                        <button class="btn btn-block btn-accessibility btn-danger btn-cancel">Cancel</button>
+                    </div>
+                    <div class="col-xs-8">
+                        <button class="btn btn-block btn-accessibility btn-info btn-reset">Reset</button>
+                    </div>
+                    <div class="col-xs-8">
+                        <button class="btn btn-block btn-accessibility btn-primary btn-apply">Apply</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+	<div id="pop-search" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="pop-search">
+	    <div class="modal-dialog" role="document">
+	        <div class="modal-content">
+	            <div class="modal-header">
+	                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+	            </div>
+	            <div class="modal-body">
+					<div class="row search">
+						<div class="col-xs-20 col-xs-offset-2">
+							<div class="plate plate-light text-center">
+								<h3>What can we help you find?</h3>
+								<form name="search" action="/search/index.cfm" method="post">
+									<label class="sr-only" for="frmSearchTerm2" aria-labelledby="frmSearchTerm2">Enter search term</label>
+									<div class="group-input">
+										<input type="hidden" name="searchtype" value="1" />
+										<input type="text" class="search-bar" name="frmSearchTerm" id="frmSearchTerm2" placeholder="Search...">
+										<button type="submit" class="btn-icon">
+											<i class="fa fa-search fa-2x"></i>
+										</button>
+									</div>
+								</form>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<div id="quick-links" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="quick-links">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			</div>
+			<div class="modal-body">
+				
+					<div class="row visible-xs hidden-lg hidden-md hidden-sm">
+						<div class="page-nav col-xs-22 col-xs-offset-1 col-sm-7 col-sm-offset-1">
+						</div>
+					</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+<div id="rpi" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="rpi">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			</div>
+			<div class="modal-body">
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+	</body>
+
+</html>

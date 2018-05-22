@@ -1,0 +1,71 @@
+OrganisationURI,OrganisationLabel,SiteReference,PreviouslyPartOf,SiteNameAddress,SiteplanURL,CoordinateReferenceSystem,GeoX,GeoY,Hectares,OwnershipStatus,Deliverable,PlanningStatus,PermissionType,PermissionDate,PlanningHistory,ProposedForPIP,MinNetDwellings,DevelopmentDescription,NonHousingDevelopment,Part2,NetDwellingsRangeFrom,NetDwellingsRangeTo,HazardousSubstances,SiteInformation,Notes,FirstAddedDate,LastUpdatedDate
+"http://opendatacommunities.org/id/district-council/st-edmundsbury 
+
+","StEdmundsburyBoroughCouncil
+
+",BF031,,"""BuryStEdmundsGardenCentre,BuryStEdmunds""",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF033&StartZoom=500,OSGB36,586465,263202,1.37,not owned by a public authority,yes,not permissioned,,,,,30,"""Brownfield - garden centre""",,,,,,LINK TO VISION 2031,"""VISION 2031 REF BV10A""",01/09/2017,
+"http://opendatacommunities.org/id/district-council/st-edmundsbury 
+
+","StEdmundsburyBoroughCouncil
+
+",BF032,,"""GaragesAndBusDepot,CottonLane,BuryStEdmunds""",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF034&StartZoom=500,OSGB36,585733,264460,0.65,not owned by a public authority,yes,not permissioned,,,,,50,"""Brownfield - bus depot and car repairs/ dealership""",,,,,,LINK TO VISION 2031,"""SE/12/1468/FUL Partial COU showroom""
+""VISION 2031 BV10h""",01/09/2017,
+"http://opendatacommunities.org/id/district-council/st-edmundsbury 
+
+","StEdmundsburyBoroughCouncil
+
+",BF033,,"""HospitalSite,HospitalRoad,BuryStEdmunds""",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF035&StartZoom=500,OSGB36,584638,263851,1.59,not owned by a public authority,yes,not permissioned,,,,,45,"""Brownfield - hospital""",,,,,,LINK TO VISION 2031,"""VISION 2031 BV10c""",01/09/2017,
+"http://opendatacommunities.org/id/district-council/st-edmundsbury 
+
+","StEdmundsburyBoroughCouncil
+
+",BF035,,"""LandAtRamMeadow,BuryStEdmunds""",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF036&StartZoom=500,OSGB36,585844,264675,0.98,owned by public authority,yes,not permissioned,,,,,84,"""Mixed - carpark, meadow and football ground""",,,,,,LINK TO VISION 2031,"""VISION 2031 BV11""
+""SHLAA allocation Mixed use""",01/09/2017,
+"http://opendatacommunities.org/id/district-council/st-edmundsbury 
+
+","StEdmundsburyBoroughCouncil
+
+",BF037,SE/04/2197/P,"""SchoolYard,BuryStEdmunds""",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF037&StartZoom=500,OSGB36,585081,264406,0.28,mixed ownership,yes,not permissioned,permission lapsed,,,,32,"""Brownfield  - auctioneers and car park""",,,,,,LINK TO VISION 2031,"""Planning permission SE/04/2197/P approved and lapsed."" 
+""VISION 2031 BV10f""",01/09/2017,
+"http://opendatacommunities.org/id/district-council/st-edmundsbury 
+
+","StEdmundsburyBoroughCouncil
+
+",BF039,,"""StationHill,BuryStEdmunds""",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF039&StartZoom=500,OSGB36,585236,265067,1.41,not owned by a public authority,yes,pending decision,,,,,300,"""Brownfield - underused railway sidings and vacant land""",,,,,,LINK TO VISION 2031,"""Partial - DC/15/1520/FUL 14 apartments and 28 dwellings; pending""
+""VISION 2031 BV8""",01/09/2017,
+"http://opendatacommunities.org/id/district-council/st-edmundsbury 
+
+","StEdmundsburyBoroughCouncil
+
+",BF040,,"""TayfenRoad,BuryStEdmunds""
+
+",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF040&StartZoom=500,OSGB36,585022,264886,2.2,mixed ownership,yes,pending decision,,,,,100,"""Brownfield - commercial/ vacant uses and decommissioned gas holder""",,,,,,LINK TO VISION 2031,"""DC/15/0689/OUT 215 dwellings and 60 bed care home; pending""
+""VISION 2031 BV9""",01/09/2017,
+"http://opendatacommunities.org/id/district-council/st-edmundsbury 
+
+","StEdmundsburyBoroughCouncil
+
+",BF041,SE/12/0451/FULCA,"""WeymedSite,BuryStEdmunds""
+
+",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF041&StartZoom=500,OSGB36,585754,263888,0.37,not owned by a public authority,yes,permissioned,full planning permission,19/03/2013,,,14,"""Brownfield - vacant County council offices""",,,,,,LINK TO VISION 2031,"""SE/12/0451/FULCA - 15 dwellings approved 19/03/13 - lapsed""
+""DC/17/1645/CLE submitted to determine lawful commencement of development - granted""
+""VISION 2031 BV10e""",01/09/2017,
+"http://opendatacommunities.org/id/district-council/st-edmundsbury 
+
+","StEdmundsburyBoroughCouncil
+
+",BF042,SE/06/1504,"""AttertonAndEllisSite,Haverhill ""","http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF042&StartZoom=500
+",OSGB36,567783,244938,0.4,not owned by a public authority,yes,not permissioned,,,,,39,"""Brownfield - engineering works""",,,,,,LINK TO PLANNING APPLICATION,"""SE/06/1504 conversion of mill to 3 dwellings, erection 31 flats and 5 houses approved 30/04/10 - planning application lapsed""",01/09/2017,
+"http://opendatacommunities.org/id/district-council/st-edmundsbury 
+
+","StEdmundsburyBoroughCouncil
+
+",BF044,,"""FormerGasworks,WithersfieldRoad,Haverhill""",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF044&StartZoom=500,OSGB36,566847,246006,0.25,not owned by a public authority,yes,not permissioned,,,,,10,"""Brownfield - gasworks""",,,,,,LINK TO VISION 2031,"""site remediation application approved""
+""VISION 2031 HV6a""",01/09/2017,
+"http://opendatacommunities.org/id/district-council/st-edmundsbury 
+
+","StEdmundsburyBoroughCouncil
+
+",BF045,,"""FormerWestfieldPrimarySchool,ManorRoad,Haverhill""",http://maps.westsuffolk.gov.uk/MyWestSuffolk.aspx?MapSource=WestSuffolk/AllMapsTest&SearchLayer=brownfield&SearchField=brownfield_ref&SearchValue=BF045&StartZoom=500,OSGB36,567926,245342,0.44,owned by public authority,yes,not permissioned,,,,,30,"""Brownfield - previous school""",,,,,,LINK TO VISION 2031,"""demolition of former school - SE/13/0289/CR3""
+""VISION 2031 HV6c""
+""SHLAA allocation Mixed use""",01/09/2017,
