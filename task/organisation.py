@@ -11,7 +11,8 @@ class Organisation(luigi.Task):
         r = Records()
         r.load('government-organisation')
         r.load('local-authority-eng')
-        r.loadTSV('national-park', tsv=open('etc/national-park.tsv'))
+        r.load_local('national-park')
+        r.load_local('development-corporation')
 
         gss = Records()
         for register in [

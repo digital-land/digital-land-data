@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import os
 import sys
 import io
 import csv
@@ -13,6 +14,7 @@ class Records():
     """
 
     url = 'https://%s.register.gov.uk/records.tsv?page-index=%d&page-size=%d'
+    delimiter = '\t'
 
     def __init__(self):
         self.records = {}
@@ -40,8 +42,10 @@ class Records():
         self.records[self.record(register, row)] = row
         self.fields = self.fields.union(set(row.keys()))
 
-    def loadTSV(self, register, tsv, map={}):
-        for row in csv.DictReader(tsv, delimiter='\t'):
+    def load_local(self, register, path=None, map={}):
+        if not path:
+            path = os.path.join('etc', register + '.tsv')
+        for row in csv.DictReader(open(path), delimiter=self.delimiter):
             self.put(register, row, map)
 
     def load(self, register, url=None, page_index=1, page_size=5000, map={}):
@@ -53,7 +57,7 @@ class Records():
             resp.raise_for_status()
 
             count = 0
-            for row in csv.DictReader(io.StringIO(resp.text), delimiter='\t'):
+            for row in csv.DictReader(io.StringIO(resp.text), delimiter=self.delimiter):
                 self.put(register, row, map)
                 count += 1
 
