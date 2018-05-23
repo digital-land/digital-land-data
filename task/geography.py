@@ -4,6 +4,7 @@ import requests
 import frontmatter
 import geojson
 import csv
+import json
 
 
 class Geography(luigi.WrapperTask):
@@ -20,6 +21,9 @@ class Geography(luigi.WrapperTask):
                     key = item['key']
 
                     yield GeoJSON(publication, prefix, url, key)
+                    
+                    if item.get('fields', None):
+                        yield Data(publication, prefix, url, key, item['fields'], item['properties'])
 
 
 class GeoJSON(luigi.Task):
@@ -38,3 +42,32 @@ class GeoJSON(luigi.Task):
 
     def output(self):
         return luigi.LocalTarget("data/area/{0}.geojson".format(self.publication))
+
+
+class Data(luigi.Task):
+    """
+    Extract data from geojson
+    """
+    publication = luigi.Parameter()
+    prefix = luigi.Parameter()
+    url = luigi.Parameter()
+    key = luigi.Parameter()
+    fields = luigi.Parameter()
+    properties = luigi.Parameter()
+
+    def run(self):
+        print("+ fetching", self.url)
+        r = requests.get(self.url, allow_redirects=True)
+
+        with self.output().open("w") as output:
+            sep = '\t'
+            fields = ['area'] + [s.strip() for s in self.fields.split(',')]
+            properties = ['area'] + [s.strip() for s in self.properties.split(',')]
+            print(sep.join(fields), file=output)
+            for f in r.json()['features']:
+                p = f['properties']
+                p['area'] = "%s:%s" % (self.prefix, p[self.key])
+                print(sep.join([p[field] for field in properties]), file=output)
+
+    def output(self):
+        return luigi.LocalTarget("data/data/{0}.tsv".format(self.publication))

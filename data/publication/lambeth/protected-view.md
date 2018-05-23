@@ -9,6 +9,8 @@ data-url: https://opendata.arcgis.com/datasets/1a060268b3054c39912647bae178d758_
 task: geojson
 prefix: lambeth-local-view
 key: OBJECTID
+fields: name
+properties: LOCAL_PLAN
 ---
 
 Boundaries of the London-wide protected views which intersect with Lambeth.
