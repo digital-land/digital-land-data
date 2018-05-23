@@ -67,7 +67,7 @@ class Data(luigi.Task):
             for f in r.json()['features']:
                 p = f['properties']
                 p['area'] = "%s:%s" % (self.prefix, p[self.key])
-                print(sep.join([p[field] for field in properties]), file=output)
+                print(sep.join([p[field].strip() if p.get(field) is not None else '' for field in properties]), file=output)
 
     def output(self):
         return luigi.LocalTarget("data/data/{0}.tsv".format(self.publication))

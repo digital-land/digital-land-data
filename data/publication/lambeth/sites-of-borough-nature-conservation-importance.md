@@ -9,6 +9,8 @@ documentation-url: http://openmappingdata.lambeth.gov.uk/datasets/sites-of-borou
 data-url: https://opendata.arcgis.com/datasets/88f412c44fcb44b298495e9282343807_1.geojson
 prefix: lambeth-site-of-borough-nature-conservation-importance
 key: OBJECTID
+fields: name
+properties: NAME
 ---
 
 Sites of Importance to Nature Conservation (SINCs) in Lambeth.

@@ -8,7 +8,9 @@ documentation-url: http://openmappingdata.lambeth.gov.uk/datasets/conservation-a
 data-url: https://opendata.arcgis.com/datasets/e304f6fb73574e00ae1d2493092f0d61_2.geojson
 prefix: lambeth-conservation-area
 task: geojson
-key: OBJECTID
+key: CA_REF_NO
+fields: name
+properties: CA_NAME
 ---
 
 Location of sites whose previous uses could have caused the land to be contaminated.
