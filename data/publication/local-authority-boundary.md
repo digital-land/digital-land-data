@@ -8,8 +8,8 @@ data-gov-uk: 174381a7-80fb-4aad-9152-17bcabd85001
 documentation-url: http://geoportal.statistics.gov.uk/datasets/fab4feab211c4899b602ecfbfbc420a3_1
 data-url: https://opendata.arcgis.com/datasets/fab4feab211c4899b602ecfbfbc420a3_1.geojson
 task: geojson
-prefix: statistical-geography
-key: lad17cd 
+prefix: local-authority-district
+key: lad17cd
 ---
 
 Boundaries for Local Authority districts in the UK.

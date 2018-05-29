@@ -149,12 +149,12 @@ E07000115-brownfield-site	local-authority-eng:TON
 E07000116-brownfield-site	local-authority-eng:TUN
 E07000117-brownfield-site	local-authority-eng:BUN
 E07000118-brownfield-site	local-authority-eng:CHO
-E07000119-brownfield-site	local-authority-eng:FYL	
+E07000119-brownfield-site	local-authority-eng:FYL
 E07000120-brownfield-site	local-authority-eng:HYN
-E07000121-brownfield-site	local-authority-eng:LAC	
+E07000121-brownfield-site	local-authority-eng:LAC
 E07000122-brownfield-site	local-authority-eng:PEN
 E07000123-brownfield-site	local-authority-eng:PRE
-E07000124-brownfield-site	local-authority-eng:RIB	
+E07000124-brownfield-site	local-authority-eng:RIB
 E07000125-brownfield-site	local-authority-eng:ROS
 E07000126-brownfield-site	local-authority-eng:SRI
 E07000127-brownfield-site	local-authority-eng:WLA
@@ -165,7 +165,7 @@ E07000131-brownfield-site	local-authority-eng:HAO
 E07000132-brownfield-site	local-authority-eng:HIN
 E07000133-brownfield-site	local-authority-eng:MEL
 E07000134-brownfield-site	local-authority-eng:NWL
-E07000135-brownfield-site	local-authority-eng:OAD	
+E07000135-brownfield-site	local-authority-eng:OAD
 E07000136-brownfield-site	local-authority-eng:BOT
 E07000137-brownfield-site	local-authority-eng:ELI
 E07000138-brownfield-site	local-authority-eng:LIC
@@ -237,7 +237,7 @@ E07000214-brownfield-site	local-authority-eng:SUR
 E07000215-brownfield-site	local-authority-eng:TAN
 E07000216-brownfield-site	local-authority-eng:WAE
 E07000217-brownfield-site	local-authority-eng:WOI
-E07000218-brownfield-site	local-authority-eng:NWA	
+E07000218-brownfield-site	local-authority-eng:NWA
 E07000219-brownfield-site	local-authority-eng:NUN
 E07000220-brownfield-site	local-authority-eng:RUG
 E07000221-brownfield-site	local-authority-eng:STR
@@ -309,7 +309,7 @@ E09000012-brownfield-site	local-authority-eng:HCK
 E09000013-brownfield-site	local-authority-eng:HMF
 E09000014-brownfield-site	local-authority-eng:HRY
 E09000015-brownfield-site	local-authority-eng:HRW
-E09000016-brownfield-site	local-authority-eng:HAV	
+E09000016-brownfield-site	local-authority-eng:HAV
 E09000017-brownfield-site	local-authority-eng:HIL
 E09000018-brownfield-site	local-authority-eng:HNS
 E09000019-brownfield-site	local-authority-eng:ISL
@@ -349,4 +349,5 @@ lambeth-tunnel-safeguarding-line	local-authority-eng:LBH
 land-registry-index	government-organisation:D69
 site-of-special-scientific-interest	government-organisation:PB202
 site-of-special-scientific-interest-unit	government-organisation:PB202
-statistical-geography	government-organisation:D303
+local-authority-district	government-organisation:D303
+national-park-boundary   government-organisation:D303
